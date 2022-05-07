@@ -1,3 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/></br>
+  <img src="https://komarev.com/ghpvc/?username=chulya&style=flat-square&color=green" alt=""/>
+  <h1>
+  Hey!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  
+
+</div>
 ### Hi there 👋
 
 <!--
